@@ -1,0 +1,23 @@
+{
+  "name": "Tumblr",
+  "version": "1.0.0",
+  "description": "Tumblr",
+  "main": "index.js",
+  "author": "Komorebi{§} <victor.esbu@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.tumblr.com",
+    "serviceName": "Tumblr",
+    "message": "Post anything (from anywhere!), customize everything, and find and follow what you love.",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}

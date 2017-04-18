@@ -1,0 +1,7 @@
+
+#dashboard_controls a, #dashboard_controls .control {
+  	color: #888988!important;
+  	text-shadow: #212121 1px 1px 1px;}
+
+.body, .identity-refresh, .identity, .showcase .login-section .fullscreen_post_bg, .identity .controls_section li:not(.section_header):active {
+	background: #161616!important;}
